@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/w-somerset-maugham/of-human-bondage</dc:identifier>
 		<dc:date>2018-03-29T20:48:55Z</dc:date>
-		<meta property="dcterms:modified">2018-03-29T20:48:55Z</meta>
-		<meta property="se:revision-number">1</meta>
+		<meta property="dcterms:modified">2018-03-30T04:16:54Z</meta>
+		<meta property="se:revision-number">2</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,7 +44,7 @@
 		<dc:description id="description">Maugham’s semi-autobiographical masterpiece follows a club-footed orphan’s rise in the medical profession and his lifelong search for happiness.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Considered by many to be Maugham’s masterpiece, &lt;i&gt;Of Human Bondage&lt;/i&gt; is a semi-autobiographical coming-of-age tale. The novel follows Philip, a sensitive young man interested in literature and art, as he searches for happiness in London and Paris. Philip, the ostensible stand-in for Maugham, suffers from a club foot, a physical representation of the stutter that Maugham himself suffered. Philip’s love live, a central aspect to the book, also mirrors Maugham’s own stormy affairs.&lt;/p&gt;
+			&lt;p&gt;Considered by many to be Maugham’s masterpiece, &lt;i&gt;Of Human Bondage&lt;/i&gt; is a semi-autobiographical coming-of-age tale. The novel follows Philip, a sensitive young man interested in literature and art, as he searches for happiness in London and Paris. Philip, the ostensible stand-in for Maugham, suffers from a club foot, a physical representation of the stutter that Maugham himself suffered. Philip’s love life, a central aspect to the book, also mirrors Maugham’s own stormy affairs.&lt;/p&gt;
 			&lt;p&gt;Maugham originally titled the book “Beauty from Ashes” before settling on the final title, taken from a section of Spinoza’s &lt;i&gt;Ethics&lt;/i&gt; in which he discusses how one’s inability to control one’s emotions results in a form of bondage.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
