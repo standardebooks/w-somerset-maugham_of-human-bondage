@@ -45,6 +45,9 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2007100472</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">66</meta>
 		<dc:description id="description">Maugham’s semi-autobiographical masterpiece follows a club-footed orphan’s rise in the medical profession and his lifelong search for happiness.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Considered by many to be &lt;a href="https://standardebooks.org/ebooks/w-somerset-maugham"&gt;Maugham’s&lt;/a&gt; masterpiece, &lt;i&gt;Of Human Bondage&lt;/i&gt; is a semi-autobiographical coming-of-age tale. The novel follows Philip, a sensitive young man interested in literature and art, as he searches for happiness in London and Paris. Philip, the ostensible stand-in for Maugham, suffers from a club foot, a physical representation of the stutter that Maugham himself suffered. Philip’s love life, a central aspect to the book, also mirrors Maugham’s own stormy affairs.&lt;/p&gt;
