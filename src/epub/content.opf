@@ -51,6 +51,9 @@
 		<meta id="collection-2" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">44</meta>
+		<meta id="collection-3" property="belongs-to-collection">The BBC’s 100 greatest British novels (2015)</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
+		<meta property="group-position" refines="#collection-3">77</meta>
 		<dc:description id="description">Maugham’s semi-autobiographical masterpiece follows a club-footed orphan’s rise in the medical profession and his lifelong search for happiness.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Considered by many to be &lt;a href="https://standardebooks.org/ebooks/w-somerset-maugham"&gt;Maugham’s&lt;/a&gt; masterpiece, &lt;i&gt;Of Human Bondage&lt;/i&gt; is a semi-autobiographical coming-of-age tale. The novel follows Philip, a sensitive young man interested in literature and art, as he searches for happiness in London and Paris. Philip, the ostensible stand-in for Maugham, suffers from a club foot, a physical representation of the stutter that Maugham himself suffered. Philip’s love life, a central aspect to the book, also mirrors Maugham’s own stormy affairs.&lt;/p&gt;
