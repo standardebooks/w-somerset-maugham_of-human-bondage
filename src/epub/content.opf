@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/w-somerset-maugham/of-human-bondage</dc:identifier>
 		<dc:date>2018-03-29T20:48:55Z</dc:date>
@@ -55,11 +55,11 @@
 		<meta id="collection-3" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">77</meta>
-		<dc:description id="description">Maugham’s semi-autobiographical masterpiece follows a club-footed orphan’s rise in the medical profession and his lifelong search for happiness.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Maugham’s semi-autobiographical masterpiece follows a club-footed orphan’s rise in the medical profession and his lifelong search for happiness.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Considered by many to be &lt;a href="https://standardebooks.org/ebooks/w-somerset-maugham"&gt;Maugham’s&lt;/a&gt; masterpiece, &lt;i&gt;Of Human Bondage&lt;/i&gt; is a semi-autobiographical coming-of-age tale. The novel follows Philip, a sensitive young man interested in literature and art, as he searches for happiness in London and Paris. Philip, the ostensible stand-in for Maugham, suffers from a club foot, a physical representation of the stutter that Maugham himself suffered. Philip’s love life, a central aspect to the book, also mirrors Maugham’s own stormy affairs.&lt;/p&gt;
 			&lt;p&gt;Maugham originally titled the book “Beauty from Ashes” before settling on the final title, taken from a section of Spinoza’s &lt;i&gt;Ethics&lt;/i&gt; in which he discusses how one’s inability to control one’s emotions results in a form of bondage.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/351</dc:source>
 		<dc:source>https://books.google.com/books?id=aQCrAAAAIAAJ</dc:source>
